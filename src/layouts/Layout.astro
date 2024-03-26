@@ -4,6 +4,9 @@ interface Props {
 }
 
 const { title } = Astro.props;
+
+const { currentLocale } = Astro;
+
 ---
 
 <!doctype html>
@@ -73,6 +76,7 @@ const { title } = Astro.props;
       "Open Sans",
       "Helvetica Neue",
       sans-serif;
+    margin: 0;
   }
 
   p {

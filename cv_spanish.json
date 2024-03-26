@@ -1,0 +1,300 @@
+{
+    "basics": {
+        "name": "Gustavo del Llano Villarroel",
+        "label": "Desarrollador Front End",
+        "image": "/me.webp",
+        "email": "gustavodelllano@hotmail.es",
+        "phone": "+34 695251139",
+        "url": "https://johndoe.com",
+        "summary": "Desarrollador Web Frontend apasionado y detallista, +2 años de experiencia en el desarrollo de aplicaciones web innovadoras. Tengo una gran experiencia trabajando en equipo y en ambientes colaborativos, cumpliendo con los plazos, y manteniendo un enfoque proactivo para la resolución de problemas, con un constante compromiso para mantenerme al tanto de las últimas tendencias y tecnologías de la industria.",
+        "location": {
+            "address": "Isabelita Usera 77",
+            "postalCode": "28026",
+            "city": "Madrid",
+            "countryCode": "ES",
+            "region": "España"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "Gustavo del Llano Villarroel",
+                "url": "https://www.linkedin.com/in/gustavo-del-llano-villarroel"
+            },
+            {
+                "network": "GitHub",
+                "username": "GustavodelLlano",
+                "url": "https://github.com/GustavodelLlano"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "IDEA Ingeniería",
+            "position": "Desarrollador Front End",
+            "url": "https://ideaingenieria.es",
+            "startDate": "2022-07-01",
+            "endDate": null,
+            "summary": "Desarrollo Front-end del proyecto principal 'BIM Digital Twin', realizado con React y Typescript, haciendo hincapié en la importancia del visor 3D utilizando la biblioteca Autodesk Forge, basada en Three.js. También lidero la refactorización del Front End de la aplicación.",
+            "highlights": []
+        },
+        {
+            "name": "Enerlence",
+            "position": "Desarrollador Front End",
+            "url": "https://suntropy.es/",
+            "startDate": "2022-03-16",
+            "endDate": "2022-06-30",
+            "summary": "Desarrollo del proyecto principal de Enerlence llamado Suntropy. Un completo CRM hecho para empresas instaladoras de energía solar. Desarrollado con React y Typescript.",
+            "highlights": []
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "",
+            "position": "",
+            "url": "https://.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "",
+            "highlights": []
+        }
+    ],
+    "education": [
+        {
+            "institution": "Ironhack",
+            "url": "https://www.ironhack.com/gb",
+            "area": "Desarrollo Web Full Stack",
+            "studyType": "Bootcamp",
+            "startDate": "2022-01-01",
+            "endDate": "2022-03-15",
+            "score": "",
+            "courses": []
+        },
+        {
+            "institution": "Universidad Rey Juan Carlos",
+            "url": "https://www.urjc.es/",
+            "area": "Doble Grado en Administración y Dirección de Empresas y Turismo",
+            "studyType": "Doble Grado Universitario",
+            "startDate": "2022-01-01",
+            "endDate": "2022-03-15",
+            "score": "",
+            "courses": []
+        }
+    ],
+    "awards": [
+        {
+            "title": "Premio",
+            "date": "2014-11-01",
+            "awarder": "Empresa",
+            "summary": "No hay cuchara."
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Certificado",
+            "date": "2021-11-07",
+            "issuer": "Empresa",
+            "url": "https://certificate.com"
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publicación",
+            "publisher": "Empresa",
+            "releaseDate": "2014-10-01",
+            "url": "https://publication.com",
+            "summary": "Descripción..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "HTML",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend"
+            ]
+        },
+        {
+            "name": "CSS",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Diseño Responsivo"
+            ]
+        },
+        {
+            "name": "JavaScript",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "Fullstack"
+            ]
+        },
+        {
+            "name": "Tailwind",
+            "level": "Intermedio",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Framework CSS",
+                "Diseño Responsivo"
+            ]
+        },
+        {
+            "name": "TypeScript",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "Superset de JavaScript"
+            ]
+        },
+        {
+            "name": "Node",
+            "level": "Intermedio",
+            "keywords": [
+                "Desarrollo Web",
+                "Backend",
+                "JavaScript",
+                "Servidor"
+            ]
+        },
+        {
+            "name": "MySQL",
+            "level": "Bajo",
+            "keywords": [
+                "Bases de Datos",
+                "SQL",
+                "Almacenamiento de Datos",
+                "Backend"
+            ]
+        },
+        {
+            "name": "MongoDB",
+            "level": "Intermedio",
+            "keywords": [
+                "Bases de Datos",
+                "SQL",
+                "Almacenamiento de Datos",
+                "Backend"
+            ]
+        },
+        {
+            "name": "Git",
+            "level": "Avanzado",
+            "keywords": [
+                "Control de Versiones",
+                "Colaboración",
+                "Código Fuente"
+            ]
+        },
+        {
+            "name": "GitHub",
+            "level": "Avanzado",
+            "keywords": [
+                "Control de Versiones",
+                "Colaboración",
+                "Código Fuente"
+            ]
+        },
+        {
+            "name": "Next.js",
+            "level": "Intermedio",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Framework de React",
+                "SSR",
+                "Generación Estática"
+            ]
+        },
+        {
+            "name": "React",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Biblioteca de JavaScript",
+                "UI"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Español",
+            "fluency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "fluency": "Avanzado"
+        },
+        {
+            "language": "Francés",
+            "fluency": "Bajo"
+        },
+        {
+            "language": "Alemán",
+            "fluency": "Bajo"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Vida Silvestre",
+            "keywords": [
+                "Hurones",
+                "Unicornios"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Referencia..."
+        }
+    ],
+    "projects": [
+        {
+            "name": "Arista",
+            "startDate": "2022-03-01",
+            "endDate": "2022-03-15",
+            "description": "Red social de escalada y aplicación de seguimiento deportivo. Los usuarios pueden crear sus propias rutas de escalada y compartirlas con la comunidad, así como registrar su entrenamiento y logros en escalada. Desarrollado con React, Node.js, Express, MongoDB y React Bootstrap. (El deploy del Back End está desactivado)",
+            "highlights": [
+                "Desarrollo Full Stack",
+                "API Rest",
+                "Operaciones CRUD",
+                "Autenticación"
+            ],
+            "url": "https://arista-climbing.netlify.app/"
+        },
+        {
+            "name": "Gantt Task Libary",
+            "startDate": "2024-03-05",
+            "endDate": "2021-03-07",
+            "description": "Librería React de NPM para crear gráficos de Gantt. Basada en el proyecto de @MaTeMaTuK, ya que actualmente no tiene soporte, se añadieron algunas características y se actualizaron las dependencias y el rendimiento. Permite crear tareas, subtareas e hitos, así como drag and drop. Desarrollado con React, Typescript",
+            "highlights": [
+                "Librería NPM",
+                "React",
+                "Typescript",
+                "Gráfico de Gantt"
+            ],
+            "url": "https://www.npmjs.com/package/gantt-task-react-idea"
+        },
+        {
+            "name": "Blue Spacerangers",
+            "startDate": "2024-01-15",
+            "endDate": "2021-01-22",
+            "description": "Videojuego 2D, donde el jugador debe alcanzar la máxima puntuación sin ser eliminado debido a colisiones con enemigos o balas. Tiene un sistema de puntuación, comprobación de colisiones, niveles de dificultad progresiva y mejoras de la nave. Desarrollado con JavaScript, HTML, CSS",
+            "highlights": [
+                "Desarrollo de Juegos",
+                "Videojuego 2D",
+                "JavaScript",
+                "Canvas"
+            ],
+            "url": "https://gustavodelllano.github.io/bluespacerangers/"
+        }
+    ]
+}

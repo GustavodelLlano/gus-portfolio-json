@@ -1,5 +1,7 @@
 ---
 import { basics } from "@cv";
+import { basics as bascisEs } from "@cv_spanish";
+import Section from "@/components/Section.astro";
 
 const { name, label, image, email, phone, url, summary, location, profiles } =
   basics;
@@ -7,7 +9,7 @@ const { name, label, image, email, phone, url, summary, location, profiles } =
 const { city, region } = location;
 ---
 
-<section>
+<Section>
   <div class="container">
     <div class="info">
       <h1>{name}</h1>
@@ -29,6 +31,16 @@ const { city, region } = location;
           )
         }
       </footer>
+      <figure>
+        <img src={image} alt={name} />
+      </figure>
     </div>
   </div>
-</section>
+</Section>
+
+<style>
+  section {
+    max-width: 750px;
+    margin: 0 auto 72px;
+  }
+</style>

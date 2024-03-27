@@ -103,8 +103,13 @@ const { currentLocale } = Astro;
       display: none !important;
     }
 
-    article {
+    section {
       break-inside: avoid;
+    }
+
+    @page {
+      size: auto;
+      margin: 0mm;
     }
   }
 </style>

@@ -9,7 +9,7 @@ import Skills from "@/components/sections/Skills.astro";
 import Keyboard from "@/components/Keyboard.astro";
 ---
 
-<Layout title="Portfolio">
+<Layout title="Gustavo del Llano CV">
   <main>
     <Hero />
     <About />
@@ -23,9 +23,15 @@ import Keyboard from "@/components/Keyboard.astro";
 </Layout>
 
 <style>
-  main: {
+  main {
     padding: 4rem;
     margin: auto;
     width: 100%;
+  }
+
+  @media (width <= 700px) {
+    main {
+      padding: 2rem;
+    }
   }
 </style>

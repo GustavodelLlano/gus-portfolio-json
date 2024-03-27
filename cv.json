@@ -1,20 +1,20 @@
 {
-    "basics": {
-      "name": "Gustavo del Llano Villarroel",
-      "label": "Front End Developer",
-      "image": "/me.webp",
-      "email": "gustavodelllano@hotmail.es",
-      "phone": "+34 695251139",
-      "url": "https://johndoe.com",
-      "summary": "Passionate and detail-oriented Frontend Web Developer, +2 years of hands-on experience in creating and implementing innovative web applications. My skill set focuses on delivering engaging and user-friendly website designs. I have a track record of working collaboratively in team environments, consistently meeting deadlines, and maintaining a proactive approach to troubleshooting and problem-solving, with great commitment to staying abreast of the latest industry trends and technologies.",
-      "location": {
-        "address": "Isabelita Usera 77",
-        "postalCode": "28026",
-        "city": "Madrid",
-        "countryCode": "ES",
-        "region": "Spain"
-      },
-      "profiles": [
+  "basics": {
+    "name": "Gustavo del Llano Villarroel",
+    "label": "Front End Developer",
+    "image": "/me.webp",
+    "email": "gustavodelllano@hotmail.es",
+    "phone": "+34 695251139",
+    "url": "https://johndoe.com",
+    "summary": "Passionate and detail-oriented Frontend Web Developer, +2 years of hands-on experience in creating and implementing innovative web applications. My skill set focuses on delivering engaging and user-friendly website designs. I have a track record of working collaboratively in team environments, consistently meeting deadlines, and maintaining a proactive approach to troubleshooting and problem-solving, with great commitment to staying abreast of the latest industry trends and technologies.",
+    "location": {
+      "address": "Isabelita Usera 77",
+      "postalCode": "28026",
+      "city": "Madrid",
+      "countryCode": "ES",
+      "region": "Spain"
+    },
+    "profiles": [
       {
         "network": "LinkedIn",
         "username": "Gustavo del Llano Villarroel",
@@ -26,16 +26,16 @@
         "url": "https://github.com/GustavodelLlano"
       }
     ]
-    },
-    "work": [{
+  },
+  "work": [
+    {
       "name": "IDEA Ingeniería",
       "position": "Front End Developer",
       "url": "https://ideaingenieria.es",
       "startDate": "2022-07-01",
       "endDate": null,
       "summary": "Front-end development of the main project 'BIM Digital Twin', carried out with React and Typescript, emphasising the importance of the 3D viewer using the Autodesk Forge library, based on Three.js. Also led the Front End refactoring of the application.",
-      "highlights": [
-      ]
+      "highlights": []
     },
     {
       "name": "Enerlence",
@@ -44,20 +44,22 @@
       "startDate": "2022-03-16",
       "endDate": "2022-06-30",
       "summary": "Development of Enerlence's main project called Suntropy. A complete CRM made for solar energy installation companies. Developed with React and Typescript.",
-      "highlights": [
-      ]
-    }],
-    "volunteer": [{
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
       "organization": "",
       "position": "",
       "url": "https://.com/",
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
       "summary": "",
-      "highlights": [
-      ]
-    }],
-    "education": [{
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
       "institution": "Ironhack",
       "url": "https://www.ironhack.com/gb",
       "area": "Full Stack Web Development",
@@ -65,8 +67,7 @@
       "startDate": "2022-01-01",
       "endDate": "2022-03-15",
       "score": "",
-      "courses": [
-      ]
+      "courses": []
     },
     {
       "institution": "Universidad Rey Juan Carlos",
@@ -76,113 +77,164 @@
       "startDate": "2022-01-01",
       "endDate": "2022-03-15",
       "score": "",
-      "courses": [
-      ]
-    }],
-    "awards": [{
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
       "title": "Award",
       "date": "2014-11-01",
       "awarder": "Company",
       "summary": "There is no spoon."
-    }],
-    "certificates": [{
+    }
+  ],
+  "certificates": [
+    {
       "name": "Certificate",
       "date": "2021-11-07",
       "issuer": "Company",
       "url": "https://certificate.com"
-    }],
-    "publications": [{
+    }
+  ],
+  "publications": [
+    {
       "name": "Publication",
       "publisher": "Company",
       "releaseDate": "2014-10-01",
       "url": "https://publication.com",
       "summary": "Description…"
-    }],
-    "skills": [ {
+    }
+  ],
+  "skills": [
+    {
       "name": "HTML",
       "level": "Advanced",
       "keywords": [
-        "Web Development", "Frontend"
+        "Web Development",
+        "Frontend"
       ]
     },
     {
       "name": "CSS",
       "level": "Advanced",
       "keywords": [
-        "Web Development", "Frontend", "Responsive Design"
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
       ]
     },
     {
       "name": "JavaScript",
       "level": "Advanced",
       "keywords": [
-        "Web Development", "Frontend", "Backend", "Fullstack"
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
       ]
     },
     {
       "name": "Tailwind",
       "level": "Mid",
       "keywords": [
-        "Web Development", "Frontend", "CSS Framework", "Responsive Design"
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
       ]
     },
     {
       "name": "TypeScript",
       "level": "Advanced",
       "keywords": [
-        "Web Development", "Frontend", "Backend", "JavaScript Superset"
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
       ]
     },
     {
       "name": "Node",
       "level": "Mid",
       "keywords": [
-        "Web Development", "Backend", "JavaScript", "Servidor"
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Servidor"
       ]
     },
     {
       "name": "MySQL",
       "level": "Low",
       "keywords": [
-        "Databases", "SQL", "Data Storage", "Backend"
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
       ]
     },
     {
       "name": "MongoDB",
       "level": "Mid",
       "keywords": [
-        "Databases", "SQL", "Data Storage", "Backend"
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
       ]
     },
     {
       "name": "Git",
       "level": "Avanzado",
       "keywords": [
-        "Version Control", "Collaboration", "Source Code"
+        "Version Control",
+        "Collaboration",
+        "Source Code"
       ]
     },
     {
       "name": "GitHub",
       "level": "Avanzado",
       "keywords": [
-        "Version Control", "Collaboration", "Source Code"
+        "Version Control",
+        "Collaboration",
+        "Source Code"
       ]
     },
     {
       "name": "Next.js",
       "level": "Mid",
       "keywords": [
-        "Web Development", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
       ]
     },
     {
       "name": "React",
       "level": "Advanced",
       "keywords": [
-        "Web Development", "Frontend", "JavaScript Library", "UI"
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
       ]
-    }],
-    "languages": [{
+    },
+    {
+      "name": "Astro",
+      "level": "Mid",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
       "language": "Spanish",
       "fluency": "Native speaker"
     },
@@ -197,19 +249,25 @@
     {
       "language": "German",
       "fluency": "Low"
-    }],
-    "interests": [{
+    }
+  ],
+  "interests": [
+    {
       "name": "Wildlife",
       "keywords": [
         "Ferrets",
         "Unicorns"
       ]
-    }],
-    "references": [{
+    }
+  ],
+  "references": [
+    {
       "name": "Jane Doe",
       "reference": "Reference…"
-    }],
-    "projects": [{
+    }
+  ],
+  "projects": [
+    {
       "name": "Arista",
       "startDate": "2022-03-01",
       "endDate": "2022-03-15",
@@ -220,7 +278,9 @@
         "CRUD Operations",
         "Authentication"
       ],
-      "url": "https://arista-climbing.netlify.app/"
+      "url": "https://arista-climbing.netlify.app/",
+      "github": "https://github.com/GustavodelLlano/Arista-Client",
+      "isActive": false
     },
     {
       "name": "Gantt Task Libary",
@@ -233,7 +293,9 @@
         "Typescript",
         "Gantt Chart"
       ],
-      "url": "https://www.npmjs.com/package/gantt-task-react-idea"
+      "url": "https://www.npmjs.com/package/gantt-task-react-idea",
+      "github": "https://github.com/GustavodelLlano/gantt-task-react-idea",
+      "isActive": true
     },
     {
       "name": "Blue Spacerangers",
@@ -246,6 +308,9 @@
         "JavaScript",
         "Canvas"
       ],
-      "url": "https://gustavodelllano.github.io/bluespacerangers/"
-    }]
-  }
+      "url": "https://gustavodelllano.github.io/bluespacerangers/",
+      "github": "https://github.com/GustavodelLlano/bluespacerangers",
+      "isActive": true
+    }
+  ]
+}

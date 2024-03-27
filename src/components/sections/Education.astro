@@ -1,8 +1,66 @@
 ---
+import { formatDate } from "@/utils/date.utils";
 import Section from "../Section.astro";
+
+import { education } from "@cv";
 ---
 
-<Section title="Education" >
+<Section title="Educación">
+    <ul>
+        {
+            education.map(({ institution, startDate, endDate, area }) => {
+                const fullTime = formatDate(startDate, endDate);
 
+                return (
+                    <li>
+                        <article>
+                            <header>
+                                <div>
+                                    <h3>{institution}</h3>
+                                </div>
 
+                                <time>{fullTime}</time>
+                            </header>
+
+                            <footer>
+                                <p>{area}</p>
+                            </footer>
+                        </article>
+                    </li>
+                );
+            })
+        }
+    </ul>
 </Section>
+
+<style>
+    ul {
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+    }
+
+    header {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 0.25rem;
+        align-items: flex-start;
+    }
+
+    article h3 {
+        color: #111;
+        font-weight: 500;
+    }
+
+    time {
+        color: #555;
+        font-size: 0.9rem;
+        min-width: 102px;
+    }
+
+    @media (width <= 700px) {
+        time {
+            text-align: right;
+        }
+    }
+</style>

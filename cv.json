@@ -34,14 +34,14 @@
       "url": "https://ideaingenieria.es",
       "startDate": "2022-07-01",
       "endDate": null,
-      "summary": "Front-end development of the main project 'BIM Digital Twin', carried out with React and Typescript, emphasising the importance of the 3D viewer using the Autodesk Forge library, based on Three.js. Also led the Front End refactoring of the application.",
+      "summary": "Front-end development of the main project 'BIM Digital Twin', carried out with React and Typescript, emphasising the importance of the 3D viewer using the Autodesk Forge library, based on Three.js. I have also led the Front End refactoring of the application, defining both the technologies to be applied and design patterns, and ensuring a more modular, scalable and easy to maintain architecture. As the leader of a small team of frontend developers, I have been actively involved in recruiting my colleagues, as well as implementing training and development processes to foster an environment of professional growth and collaboration within the team.",
       "highlights": []
     },
     {
       "name": "Enerlence",
       "position": "Front End Developer",
       "url": "https://suntropy.es/",
-      "startDate": "2022-03-16",
+      "startDate": "2022-01-16",
       "endDate": "2022-06-30",
       "summary": "Development of Enerlence's main project called Suntropy. A complete CRM made for solar energy installation companies. Developed with React and Typescript.",
       "highlights": []

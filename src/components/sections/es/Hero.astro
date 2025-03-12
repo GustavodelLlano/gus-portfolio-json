@@ -1,7 +1,7 @@
 ---
 import { basics } from "@cv";
 import { basics as bascisEs } from "@cv_spanish";
-import Section from "@/components/Section.astro";
+import Section from "@/components/es/Section.astro";
 import Mail from "@/icons/Mail.astro";
 import Phone from "@/icons/Phone.astro";
 import LinkedIn from "@/icons/LinkedIn.astro";
@@ -82,9 +82,8 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ");
       <figure>
         <img src={image} alt={name} />
       </figure>
-
       <footer style={{ position: "fixed", marginLeft: "100px" }}>
-        <a href={`/es`} title={`Translate to spanish`}> ES </a>
+        <a href={`/`} title={`Traducir a inglés`}> EN </a>
       </footer>
     </div>
   </div>

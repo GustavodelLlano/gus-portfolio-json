@@ -268,7 +268,9 @@
                 "Operaciones CRUD",
                 "Autenticación"
             ],
-            "url": "https://arista-climbing.netlify.app/"
+            "url": "https://arista-climbing.netlify.app/",
+            "github": "https://github.com/GustavodelLlano/Arista-Client",
+            "isActive": false
         },
         {
             "name": "Gantt Task Libary",
@@ -281,7 +283,9 @@
                 "Typescript",
                 "Gráfico de Gantt"
             ],
-            "url": "https://www.npmjs.com/package/gantt-task-react-idea"
+            "url": "https://www.npmjs.com/package/gantt-task-react-idea",
+            "github": "https://github.com/GustavodelLlano/gantt-task-react-idea",
+            "isActive": true
         },
         {
             "name": "Blue Spacerangers",
@@ -294,7 +298,9 @@
                 "JavaScript",
                 "Canvas"
             ],
-            "url": "https://gustavodelllano.github.io/bluespacerangers/"
+            "url": "https://gustavodelllano.github.io/bluespacerangers/",
+            "github": "https://github.com/GustavodelLlano/bluespacerangers",
+            "isActive": true
         }
     ]
 }

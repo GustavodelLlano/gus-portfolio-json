@@ -1,0 +1,37 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import About from "@/components/sections/es/About.astro";
+import Education from "@/components/sections/es/Education.astro";
+import Hero from "@/components/sections/es/Hero.astro";
+import Projects from "@/components/sections/es/Projects.astro";
+import Skills from "@/components/sections/es/Skills.astro";
+import Keyboard from "@/components/es/Keyboard.astro";
+import Experience from "@/components/sections/es/Experience.astro";
+---
+
+<Layout title="Gustavo del Llano CV">
+  <main>
+    <Hero />
+    <About />
+    <Experience />
+    <Education />
+    <Projects />
+    <Skills />
+  </main>
+
+  <Keyboard />
+</Layout>
+
+<style>
+  main {
+    padding: 4rem;
+    margin: auto;
+    width: 100%;
+  }
+
+  @media (width <= 700px) {
+    main {
+      padding: 2rem;
+    }
+  }
+</style>

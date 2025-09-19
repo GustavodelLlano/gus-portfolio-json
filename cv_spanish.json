@@ -34,7 +34,7 @@
             "url": "https://ideaingenieria.es",
             "startDate": "2022-07-01",
             "endDate": null,
-            "summary": "Desarrollo Front-end del proyecto principal 'BIM Digital Twin', realizado con React y Typescript, haciendo hincapié en la importancia del visor 3D utilizando la biblioteca Autodesk Forge, basada en Three.js. También lidero la refactorización del Front End de la aplicación (Vite, React, Typescript, Zustand, Vitest, Playwright, Threes.js, Azure). Participo en la definición tanto de producto como de la parte técnica de nuevos desarrollos, así como desglosando historias de usuario, estimación con story points y participación activa en las ceremonias agile.",
+            "summary": "Desarrollo Front-end del proyecto principal 'BIM Digital Twin', realizado con React y Typescript, haciendo hincapié en la importancia del visor 3D utilizando la biblioteca Autodesk Forge, basada en Three.js. También lidero la refactorización del Front End de la aplicación (Arquitectura de microfrontends con Module Federation, Nx, Rspack, React, Typescript, Zustand, Playwright, Threes.js, Azure). Participo en la definición tanto de producto como de la parte técnica de nuevos desarrollos, así como desglosando historias de usuario, estimación con story points y participación activa en las ceremonias agile.",
             "highlights": []
         },
         {
